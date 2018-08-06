@@ -1,0 +1,13 @@
+E:\Comisiones\Comisiones\bin\Debug\Comisiones.exe.config
+E:\Comisiones\Comisiones\bin\Debug\Comisiones.exe
+E:\Comisiones\Comisiones\bin\Debug\Comisiones.pdb
+E:\Comisiones\Comisiones\obj\Debug\Comisiones.Form1.resources
+E:\Comisiones\Comisiones\obj\Debug\Comisiones.Properties.Resources.resources
+E:\Comisiones\Comisiones\obj\Debug\Comisiones.csproj.GenerateResource.Cache
+E:\Comisiones\Comisiones\obj\Debug\Comisiones.exe
+E:\Comisiones\Comisiones\obj\Debug\Comisiones.pdb
+E:\Comisiones\Comisiones\obj\Debug\Comisiones.csprojResolveAssemblyReference.cache
+E:\Comisiones\Comisiones\bin\Debug\Comisiones.exe.manifest
+E:\Comisiones\Comisiones\bin\Debug\Comisiones.application
+E:\Comisiones\Comisiones\obj\Debug\Comisiones.exe.manifest
+E:\Comisiones\Comisiones\obj\Debug\Comisiones.application
